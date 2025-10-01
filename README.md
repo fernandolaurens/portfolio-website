@@ -101,13 +101,6 @@ yarn start
 - **React.Email**
 - **Context API**
 
-## Contact
-
-Feel free to reach out if you have any questions or feedback!
-
-- **Email**: [t.okonbaeva92@gmail.com.com](mailto:t.okonbaeva92@gmail.com)
-- **LinkedIn**: [My-linkedin](https://www.linkedin.com/in/turdugul/)
-- **GitHub**: [My-github](https://github.com/Turdugul)
 
 ---
 
