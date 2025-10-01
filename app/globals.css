@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  --line-color: #e5e7eb;
+}
+
+html.dark {
+  --line-color: rgba(255, 255, 255, 0.2);
+}
+.custom-btn1 {
+  @apply font-light  rounded-full bg-[#2c29f6]  flex flex-row justify-center items-center gap-2  px-2  text-white transition-all duration-300 ease-in-out hover:-translate-y-1 hover:bg-[#18771c] lowercase hover:shadow-lg md:mt-1 md:py-0 md:text-xs lg:px-2  lg:text-base;
+}
+.custom-btn {
+  @apply bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition;
+}
+.borderBlack {
+  @apply border border-black/10;
+}
